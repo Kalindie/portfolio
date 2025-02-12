@@ -391,6 +391,7 @@
     background-color: #000;
     height: 1024px;
     overflow: hidden;
+    margin: 0 auto;
     text-align: left;
     font-size: 18px;
     color: #fabe28;
